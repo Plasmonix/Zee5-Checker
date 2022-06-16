@@ -13,7 +13,7 @@ class Zee5:
         self.combos = open("data/combos.txt", "r", encoding="utf8").read().splitlines()
 
     def ui(self):
-        os.system("cls && title Zee5 Checker ^| For help join discord.gg/v0id")
+        os.system("cls && title Zee5 Checker ^| github.com/Plasmonix")
         print(f"""{Fore.BLUE}                                                                          
          _____         ___    _____ _           _           
         |__   |___ ___|  _|  |     | |_ ___ ___| |_ ___ ___ 
